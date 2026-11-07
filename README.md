@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/tsilvalisbon/social-links-profile]
-- Live Site URL: [https://social-links-profile-tsilvalisbon.netlify.app]
+- Solution URL: [Github](https://github.com/tsilvalisbon/social-links-profile)
+- Live Site URL: [Netlify](https://social-links-profile-tsilvalisbon.netlify.app)
 
 ## My process
 
